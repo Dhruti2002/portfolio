@@ -147,6 +147,9 @@ header {
         color: #34353b;
     }
 
+.intro a{
+    text-decoration:none;
+}
 .socials {
     display: flex;
     flex-direction: column;
