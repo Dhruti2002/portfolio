@@ -141,16 +141,18 @@ header {
     font-size: 16px;
     transition: all ease 0.5s;
 }
-
     .intro button:hover {
         background-color: #fec86a;
         color: #34353b;
     }
 
-.intro a{
-    text-decoration:none;
-    color: #fbfbfb;
+.intro a {
+    text-decoration: none;
+    color: #ffffff;
 }
+
+    
+
 .socials {
     display: flex;
     flex-direction: column;
